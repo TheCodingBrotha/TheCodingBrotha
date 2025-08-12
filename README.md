@@ -8,3 +8,6 @@ Peek at my account to see some of my projects...</p>
 <a href="https://wakatime.com"><img src="https://wakatime.com/share/@AndreySandrin/55cd1e30-2318-4f00-997d-7a9b9fbee500.png" /></a>
 
 <a href="https://wakatime.com/@2e5ac7e9-8439-4484-bfc0-262ab5940fa6"><img src="https://wakatime.com/badge/user/2e5ac7e9-8439-4484-bfc0-262ab5940fa6.svg" alt="Total time coded since Apr 25 2025" /></a>
+
+.. image:: https://wakatime.com/share/@AndreySandrin/55cd1e30-2318-4f00-997d-7a9b9fbee500.png
+    :target: https://wakatime.com/
