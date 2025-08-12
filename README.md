@@ -5,6 +5,6 @@ Peek at my account to see some of my projects...</p>
 
 <img src="https://i.pinimg.com/originals/2b/87/8f/2b878fc08878b8673b9a942a8f5fac55.gif" alt="gif of a single eye looking around on a black background" height="300" width="300">
 
-<img href="https://wakatime.com"><img src="https://wakatime.com/share/@AndreySandrin/55cd1e30-2318-4f00-997d-7a9b9fbee500.png" height="80" width="100">
+<img href="https://wakatime.com"><img src="https://wakatime.com/share/@AndreySandrin/55cd1e30-2318-4f00-997d-7a9b9fbee500.png" height="200" width="300">
 
 <a href="https://wakatime.com/@2e5ac7e9-8439-4484-bfc0-262ab5940fa6"><img src="https://wakatime.com/badge/user/2e5ac7e9-8439-4484-bfc0-262ab5940fa6.svg" alt="Total time coded since Apr 25 2025" /></a>
